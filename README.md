@@ -6,7 +6,7 @@
 
 Este repositorio reúne tres programas en Python que usan una misma estructura: la pila. Además incluye la página web (`Frutiger_Aero`) donde se pueden ver funcionando los tres programas y consultar su código.
 
-> Ver la página en línea: https://TU-USUARIO.github.io/TU-REPOSITORIO/
+> Ver la página en línea:https://github.com/JJvazz/ADA1---Pilas/blob/main/Frutiger_Aero.html
 > (también se puede abrir descargando el repositorio y dando doble clic en `Frutiger_Aero`)
 ---
 
